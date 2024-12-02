@@ -8,7 +8,7 @@ Follow these steps to complete the task:
 
 ### 1. **Fork the Repository**
 - *Fork this repository to your own GitHub account by clicking the "Fork" button in the top-right corner.*
-- [Repo](https://www.example.com)
+- [Repo](https://github.com/Mangaliso-Maduna/ABT_Repo)
 
 ### 2. **Clone the Forked Repository**
 *Clone your forked repository to your local machine:*
@@ -35,14 +35,14 @@ Commit the changes with a meaningful message:
 - *Write a brief description of your changes and submit the PR.*
 
 ### 7. **After Submitting Your PR**
-- *The trainer [(repository owner)](https://www.example.com) will review your pull request.*
+- *The trainer [(repository owner)](https://github.com/Mangaliso-Maduna/ABT_Repo) will review your pull request.*
 - *If there are any issues, you'll be asked to make changes and update your PR.*
 - *Once approved, your PR will be merged into the main repository.*
 
 # **<u>Tips</u>**
 ![tips](tips.jpg)
 
-- 
+
 - **<u>Use meaningful commit messages to explain what you’ve done.</u>**
 - **<u>If you encounter any issues, feel free to ask the trainer or your peers for guidance.</u>**
 
@@ -53,4 +53,4 @@ Commit the changes with a meaningful message:
 2. **View the changes you’ve made:**
 - *git diff* 
 3. **Update your local repository with new changes:**
-- *git pull origin **<u>Yor Branch Name</u>***
+- *git pull origin **<u>Your Branch Name</u>***
