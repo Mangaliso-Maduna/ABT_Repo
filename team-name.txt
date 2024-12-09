@@ -13,8 +13,14 @@
 14.Hlengiw Mazibku
 15.Akho Songunzu
 16.Maletabo Malatj
+14.Hlengiwe Mazibuko
+15.Akh Sogunzu
+16.Malethabo Malatji
 17.Andile Ngobese
 18.Zanel Hlongwan
 19.Moglae Mashil
 20.Thobil Mtlo
+21.Jan Phala
+20.Thobile Mtolo
+
 
